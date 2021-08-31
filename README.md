@@ -14,10 +14,10 @@ Commit your code regularly and meaningfully. This helps you and any collaborator
 
 ### Task 1: Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] Use CRA to create a new React app in this repository
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [√] Create a forked copy of this project.
+- [√] Clone your OWN version of the repository in your terminal
+- [√] Use CRA to create a new React app in this repository
+- [√] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
@@ -43,7 +43,7 @@ When you have those completed, you're ready to start coding!
 
 #### Fetch the User Data
 
-- When your component mounts, send a GET request to the following URL (replacing the palceholder with your Github name):
+- When your component mounts, send a GET request to the following URL (replacing the placeholder with your Github name):
   - https://api.github.com/users/< your github name >
 - After you fetch your data, set it to state
 
